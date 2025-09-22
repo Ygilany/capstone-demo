@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Project Management Guide
+    url: https://github.com/Ygilany/capstone-demo/blob/main/PROJECT_MANAGEMENT_GUIDE.md
+    about: Learn how to use the issue system for project management
+  - name: 🎯 Sample Issues
+    url: https://github.com/Ygilany/capstone-demo/tree/main/sample-issues
+    about: View examples of well-structured issues
+  - name: ❓ Questions & Discussion
+    url: https://github.com/Ygilany/capstone-demo/discussions
+    about: Ask questions about project management best practices
