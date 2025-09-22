@@ -1,0 +1,14 @@
+{
+  "testEnvironment": "node",
+  "coverageDirectory": "coverage",
+  "collectCoverageFrom": [
+    "*.js",
+    "!coverage/**",
+    "!node_modules/**",
+    "!jest.config.js"
+  ],
+  "testMatch": [
+    "**/__tests__/**/*.js",
+    "**/?(*.)+(spec|test).js"
+  ]
+}
